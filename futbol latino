@@ -1,0 +1,907 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BeIN_SPORTS_1_HD
+http://channelstv.online:8080/A939376788322/A092927667330/73937
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BeIN_SPORTS_2_HD
+http://channelstv.online:8080/A939376788322/A092927667330/73938
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BeIN_SPORTS_3_FullHD
+http://channelstv.online:8080/A939376788322/A092927667330/73939
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BEIN_SPORT_MAX_04
+http://channelstv.online:8080/A939376788322/A092927667330/73940
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BEIN_SPORT_MAX_05
+http://channelstv.online:8080/A939376788322/A092927667330/73941
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BEIN_SPORT_MAX_06
+http://channelstv.online:8080/A939376788322/A092927667330/73942
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BEIN_SPORT_MAX_07
+http://channelstv.online:8080/A939376788322/A092927667330/73943
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BEIN_SPORT_MAX_08
+http://channelstv.online:8080/A939376788322/A092927667330/73944
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BEIN_SPORT_MAX_09
+http://channelstv.online:8080/A939376788322/A092927667330/73945
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BEIN_SPORT_MAX_10
+http://channelstv.online:8080/A939376788322/A092927667330/73946
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Local 5
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/13
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Local 1
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/56
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",Bein Sport HD1
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/1
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORTS 4HD
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/4
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BEIN SPORTS 5HD
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/5
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BEIN SPORTS 7HD
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/6
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3HD
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/3
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",BEIN sport SD2
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/18
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN sport SD3
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/19
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN sport SD4
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/20
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein sport SD5
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/21
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein sport SD6
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/22
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein sport SD7
+http://161.97.95.121:25461/shaheerapk72/gfkjfskjgrlj/23
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57953
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57954
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57955
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57956
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57957
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57958
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57959
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57960
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57961
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57962
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 11 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57963
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 12 1080 Local
+http://channelstv.online:8080/A939376788322/A092927667330/57964
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81128
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81129
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81130
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81131
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81132
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81133
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81134
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81135
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81136
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81137
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 11_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81138
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 12_FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81139
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81140
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81141
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81142
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81143
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81144
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81145
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81146
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81147
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81148
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81149
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 11_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81150
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 12_FHD_1080
+http://channelstv.online:8080/A939376788322/A092927667330/81151
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 4K H265
+http://channelstv.online:8080/A939376788322/A092927667330/57965
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 4K H265
+http://channelstv.online:8080/A939376788322/A092927667330/57966
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 3 4K H265
+http://channelstv.online:8080/A939376788322/A092927667330/57967
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 4 4K H265
+http://channelstv.online:8080/A939376788322/A092927667330/57968
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 5 4K H265
+http://channelstv.online:8080/A939376788322/A092927667330/57969
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 6 4K H265
+http://channelstv.online:8080/A939376788322/A092927667330/57970
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 7 4K H265
+http://channelstv.online:8080/A939376788322/A092927667330/57971
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 9 4K H265
+http://channelstv.online:8080/A939376788322/A092927667330/57973
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 10 4K H265
+http://channelstv.online:8080/A939376788322/A092927667330/57974
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4K_LOCAL
+http://channelstv.online:8080/A939376788322/A092927667330/81152
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81153
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81154
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 3 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81155
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 4 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81156
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 5 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81157
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 6 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81158
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 7 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81159
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 8 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81160
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 9 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81161
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 10 4K
+http://channelstv.online:8080/A939376788322/A092927667330/81162
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81163
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81164
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81165
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 3 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81166
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 4 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81167
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 5 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81168
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 6 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81169
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 7 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81170
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 8 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81171
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 9 4K Pure
+http://channelstv.online:8080/A939376788322/A092927667330/81172
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 10 4K PURE
+http://channelstv.online:8080/A939376788322/A092927667330/81173
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57941
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57942
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57943
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57944
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57945
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57946
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57947
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57948
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57949
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57950
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 11 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57951
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 12 720 H265
+http://channelstv.online:8080/A939376788322/A092927667330/57952
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81074
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81075
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81076
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81077
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81078
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81079
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81080
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81081
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81082
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81083
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 11 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81084
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 12 H265
+http://channelstv.online:8080/A939376788322/A092927667330/81085
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81086
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81087
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81088
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81089
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81090
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81091
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81092
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81093
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81094
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 8MB
+http://channelstv.online:8080/A939376788322/A092927667330/81095
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81096
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81097
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81098
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81099
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81100
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81101
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81102
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81103
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81104
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81105
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1_HD
+http://channelstv.online:8080/A939376788322/A092927667330/80206
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2_HD
+http://channelstv.online:8080/A939376788322/A092927667330/80207
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3_HD
+http://channelstv.online:8080/A939376788322/A092927667330/80208
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4_HD
+http://channelstv.online:8080/A939376788322/A092927667330/80209
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5_HD
+http://channelstv.online:8080/A939376788322/A092927667330/80210
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6_HD
+http://channelstv.online:8080/A939376788322/A092927667330/80211
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7_HD
+http://channelstv.online:8080/A939376788322/A092927667330/80212
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8_HD
+http://channelstv.online:8080/A939376788322/A092927667330/80213
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10_HD
+http://channelstv.online:8080/A939376788322/A092927667330/80215
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 240
+http://channelstv.online:8080/A939376788322/A092927667330/57917
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 240
+http://channelstv.online:8080/A939376788322/A092927667330/57918
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 240
+http://channelstv.online:8080/A939376788322/A092927667330/57919
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 240
+http://channelstv.online:8080/A939376788322/A092927667330/57920
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 240
+http://channelstv.online:8080/A939376788322/A092927667330/57921
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 240
+http://channelstv.online:8080/A939376788322/A092927667330/57922
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 240
+http://channelstv.online:8080/A939376788322/A092927667330/57923
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 240
+http://channelstv.online:8080/A939376788322/A092927667330/57925
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 240
+http://channelstv.online:8080/A939376788322/A092927667330/57926
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81106
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81107
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81108
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81109
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81110
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81111
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81112
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81114
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81115
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 11 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81116
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 12 2MB
+http://channelstv.online:8080/A939376788322/A092927667330/81117
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",Bein 1 480
+http://channelstv.online:8080/A939376788322/A092927667330/57929
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",Bein 2 480
+http://channelstv.online:8080/A939376788322/A092927667330/57930
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",Bein 3 480
+http://channelstv.online:8080/A939376788322/A092927667330/57931
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",Bein 4 480
+http://channelstv.online:8080/A939376788322/A092927667330/57932
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",Bein 5 480
+http://channelstv.online:8080/A939376788322/A092927667330/57933
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",Bein 6 480
+http://channelstv.online:8080/A939376788322/A092927667330/57934
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 480
+http://channelstv.online:8080/A939376788322/A092927667330/57935
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8 480
+http://channelstv.online:8080/A939376788322/A092927667330/57936
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 480
+http://channelstv.online:8080/A939376788322/A092927667330/57937
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 480
+http://channelstv.online:8080/A939376788322/A092927667330/57938
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 11 480
+http://channelstv.online:8080/A939376788322/A092927667330/57939
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 12 480
+http://channelstv.online:8080/A939376788322/A092927667330/57940
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81062
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81063
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81064
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81065
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81066
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81067
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81068
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81069
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81070
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81071
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 11 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81072
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 12 4MB
+http://channelstv.online:8080/A939376788322/A092927667330/81073
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 1 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81010
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 2 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81011
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 3 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81012
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 4 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81013
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 5 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81014
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 6 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81015
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 7 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81016
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 8 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81017
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 9 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81018
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 10 FHD
+http://channelstv.online:8080/A939376788322/A092927667330/81019
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 LOW
+http://channelstv.online:8080/A939376788322/A092927667330/81020
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 LOW
+http://channelstv.online:8080/A939376788322/A092927667330/81021
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 LOW
+http://channelstv.online:8080/A939376788322/A092927667330/81022
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 LOW
+http://channelstv.online:8080/A939376788322/A092927667330/81023
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 LOW
+http://channelstv.online:8080/A939376788322/A092927667330/81024
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 LOW
+http://channelstv.online:8080/A939376788322/A092927667330/81025
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 LOW
+http://channelstv.online:8080/A939376788322/A092927667330/81026
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 LOW
+http://channelstv.online:8080/A939376788322/A092927667330/81028
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 LOW
+http://channelstv.online:8080/A939376788322/A092927667330/81029
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1_low
+http://channelstv.online:8080/A939376788322/A092927667330/81174
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2_low
+http://channelstv.online:8080/A939376788322/A092927667330/81175
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 _low
+http://channelstv.online:8080/A939376788322/A092927667330/81176
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 _low
+http://channelstv.online:8080/A939376788322/A092927667330/81177
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 _low
+http://channelstv.online:8080/A939376788322/A092927667330/81178
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 _low
+http://channelstv.online:8080/A939376788322/A092927667330/81179
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 _low
+http://channelstv.online:8080/A939376788322/A092927667330/81180
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9_low
+http://channelstv.online:8080/A939376788322/A092927667330/81182
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10_low
+http://channelstv.online:8080/A939376788322/A092927667330/81183
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83441
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83442
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83443
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83444
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83445
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83446
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83447
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83448
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83449
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 1MB
+http://channelstv.online:8080/A939376788322/A092927667330/83450
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 1 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81194
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 2 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81195
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 3 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81196
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 4 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81197
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 5 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81198
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 6 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81199
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 7 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81200
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 8 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81201
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 9 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81202
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein 10 Nano
+http://channelstv.online:8080/A939376788322/A092927667330/81203
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-1 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85701
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-2 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85702
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-3 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85703
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-4 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85704
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-5 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85705
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-6 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85706
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-7 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85707
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-8 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85708
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-9 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85709
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-10 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85710
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-11 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85711
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNION BEIN-12 VIP
+http://channelstv.online:8080/A939376788322/A092927667330/85712
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 1_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81000
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 2_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81001
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 3_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81002
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 4_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81003
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 5_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81004
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 6_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81005
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 7_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81006
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 8_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81007
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 9_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81008
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 10_SD
+http://channelstv.online:8080/A939376788322/A092927667330/81009
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 1 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81118
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 2 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81119
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 3 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81120
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 4 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81121
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 5 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81122
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 6 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81123
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 7 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81124
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 8 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81125
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 9 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81126
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeoutQ 10 VEGA
+http://channelstv.online:8080/A939376788322/A092927667330/81127
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",Bein Sport SD1
+http://krdonline.top:8060/krdtest/test123/29721
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",Bein Sport SD2
+http://krdonline.top:8060/krdtest/test123/29722
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD3
+http://krdonline.top:8060/krdtest/test123/29723
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD4
+http://krdonline.top:8060/krdtest/test123/29724
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD5
+http://krdonline.top:8060/krdtest/test123/29725
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD6
+http://krdonline.top:8060/krdtest/test123/29726
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD7
+http://krdonline.top:8060/krdtest/test123/29727
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD8
+http://krdonline.top:8060/krdtest/test123/29728
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD9
+http://krdonline.top:8060/krdtest/test123/29729
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD10
+http://krdonline.top:8060/krdtest/test123/29730
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD11
+http://krdonline.top:8060/krdtest/test123/29731
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD12
+http://krdonline.top:8060/krdtest/test123/29732
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD14 Fr
+http://krdonline.top:8060/krdtest/test123/29734
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD15
+http://krdonline.top:8060/krdtest/test123/29735
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport SD16 Fr
+http://krdonline.top:8060/krdtest/test123/29736
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR- BeIN Sports SD 5
+http://ky-iptv.com:25461/newyear1/newyear1/943525
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR- BeIN Sports SD 9
+http://ky-iptv.com:25461/newyear1/newyear1/943529
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",AR: beIN Sports 1 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515957
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",AR: beIN Sports 2 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515959
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR beIN Sports 3 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515962
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR beIN Sports 4 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515964
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR beIN Sports 5 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515966
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",AR: beIN Sports 6 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515967
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",AR: beIN Sports 7 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515968
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",AR: beIN Sports 8 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515969
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",AR: beIN Sports 9 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515970
+#EXTINF:0 tvg-id="bein10hd.jsc" group-title="Channels",AR: beIN Sports 10 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515973
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR beIN Sports 11 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515975
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR beIN Sports 12 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515977
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR beIN Sports 13 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515979
+#EXTINF:0 tvg-id="bein14hd.jsc" group-title="Channels",AR: beIN Sports 14 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515980
+#EXTINF:0 tvg-id="bein15hd.jsc" group-title="Channels",AR: beIN Sports 15 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515981
+#EXTINF:0 tvg-id="bein16hd.jsc" group-title="Channels",AR: beIN Sports 16 FHD
+http://ky-iptv.com:25461/newyear1/newyear1/515982
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",AR: beIN Sports HD
+http://ky-iptv.com:25461/newyear1/newyear1/515995
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: beIN Sports News HD
+http://ky-iptv.com:25461/newyear1/newyear1/515996
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",AR: beIN Sports Max 4
+http://ky-iptv.com:25461/newyear1/newyear1/516009
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Channels",AR: beIN Sports Max 6
+http://ky-iptv.com:25461/newyear1/newyear1/516011
+#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="Channels",AR: beIN Sports Max 9
+http://ky-iptv.com:25461/newyear1/newyear1/516014
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",AR: beIN Sports Max 10
+http://ky-iptv.com:25461/newyear1/newyear1/516015
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 01 Low 512
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51836
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 02 Low 512
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51835
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 03 Low 512
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51834
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 04 Low 512
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51833
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 05 Low 512
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51832
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 06 Low 512
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51831
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 07 Low 512
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51830
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 01 (1080p) H265
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/58868
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP:beIN Sport 1 H265
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/99730
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP:beIN Sport 2 H265
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/99731
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP:beIN Sport 3 H265
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/99732
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP:beIN Sport 4 H265
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/99733
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP:beIN Sport 5 H265
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/99734
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP:beIN Sport 9 H265
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/99738
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 01 [SD]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51791
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 03 [SD]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51789
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 04 [SD]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51788
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 05 [SD]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51787
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 06 [SD]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51786
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 07 [SD]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51785
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 08 [SD]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51784
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 09 [SD]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/92762
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 10 [SD]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/92763
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sports HD
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/93680
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 01 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51803
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 02 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51802
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 03 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51801
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 04 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51800
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 06 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51798
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 08 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51796
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 09 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51795
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 01 [4k]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51826
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 02 [4k]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51825
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 03 [4k]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51824
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 04 [4k]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51823
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 05 [4k]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51822
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 06 [4k]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51821
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 07 [4k]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51820
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 09 [4k]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51818
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 10 [4k]
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51817
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 01 1080P
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/61064
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 02 1080P
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/61063
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 03 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/61062
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 04 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/61061
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 05 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/61060
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 06 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/61059
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 07 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/61058
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 08 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/61057
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 09 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/93673
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 10 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/93674
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 11 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/93675
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP2: beIN Sport 12 1080p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/93676
+#EXTINF:0 tvg-id="ext" group-title="Channels",Halow Kids HD
+http://echotv.online:8080/HalowTV/FSyzHfEhvb/139
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 05 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51799
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 07 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51797
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 10 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51794
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 11 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51793
+#EXTINF:0 tvg-id="ext" group-title="Channels",SP3: beIN Sport 12 720p
+http://dragon2020.com:8080/admin_270631/jfzc5hCz/51792
+#EXTINF:0 tvg-id="ext" group-title="Channels",Halow Sport HD
+http://echotv.online:8080/HalowTV/FSyzHfEhvb/137
+#EXTINF:0 tvg-id="ext" group-title="Channels",Halow Movies HD
+http://echotv.online:8080/HalowTV/FSyzHfEhvb/138
+#EXTINF:0 tvg-id="DDSports.in" group-title="Channels",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:0 tvg-id="DDSports.in" group-title="Channels",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Старт HD HD
+http://live03-cdn.tv.ti.ru/dtv/id1303_NBN_SG--StartHD_wflite/04/plst.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",Real Madrid HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ntv-nashfootball" group-title="Channels",МАТЧ! ПРЕМЬЕР
+http://dmitry-tv.my1.ru/his/01/CH_MATCHPREMIER.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Russian Extreme Ultra HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+#EXTINF:0 tvg-id="ufc-tv-hd" group-title="Channels",UFC ТВ HD
+http://live-ng-01.more.tv/hls/UFC/master.m3u8
+#EXTINF:0 tvg-id="konnyj-mir" group-title="Channels",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ONE GOLF HD
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tennis Channel HD 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tennis Channel HD 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVS BOXING HD
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CombatGo HD
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",Racing
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",Racing
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index.m3u8
+#EXTINF:0 tvg-id="sport-plus" group-title="Channels",МАТЧ! НАШ СПОРТ
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+#EXTINF:0 tvg-id="match" group-title="Channels",Матч!
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:0 tvg-id="sport1_rus" group-title="Channels",Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:0 tvg-id="boec" group-title="Channels",Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:0 tvg-id="ntv-football-1" group-title="Channels",Матч! Футбол 1
+http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
+#EXTINF:0 tvg-id="ntv-football-2" group-title="Channels",Матч! Футбол 2
+http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Channels",Матч! Футбол 3
+http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0 tvg-id="RealMadridTV.sp" group-title="Channels",Real Madrid TV
+https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CCTV中国中央电视台-5+ 体育赛事
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CCTV中国中央电视台-5+ 体育赛事
+http://121.31.30.90:8085/ysten-business/live/hdcctv05plus/yst.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CCTV中国中央电视台-5 体育
+http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NewTV精品体育HD
+http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecaribe Deportes
+http://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033&checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABN SAT (1280×720) - ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:0 tvg-id="ZiggoSport.nl" group-title="Channels",ZIGGO SPORT HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/228.ts
+#EXTINF:0 tvg-id="ZiggoSportSelect.nl" group-title="Channels",ZIGGO SPORT SELECT HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/229.ts
+#EXTINF:0 tvg-id="ZiggoSportRacing.nl" group-title="Channels",ZIGGO SPORT VOETBAL HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/230.ts
+#EXTINF:0 tvg-id="ZiggoSportRacing.nl" group-title="Channels",ZIGGO SPORT RACING
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/232.ts
+#EXTINF:0 tvg-id="ZiggoSportGolf.nl" group-title="Channels",ZIGGO SPORT GOLF
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/231.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZIGGO SPORT DOCU
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/233.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",ZIGGO SPORT EXTRA
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/234.ts
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Channels",FOX SPORT 1
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/222.ts
+#EXTINF:0 tvg-id="ESPN2.nl" group-title="Channels",FOX SPORT 2
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/223.ts
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="Channels",FOX SPORT 3
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/224.ts
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Channels",FOX SPORT 4
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/225.ts
+#EXTINF:0 tvg-id="ESPN5.nl" group-title="Channels",FOX SPORT 5
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/226.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX SPORT 6
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/227.ts
+#EXTINF:0 tvg-id="Eurosport1.nl" group-title="Channels",EuroSport 1 HD NL
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/235.ts
+#EXTINF:0 tvg-id="Eurosport2.nl" group-title="Channels",EuroSport 2 HD NL
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/236.ts
+#EXTINF:0 tvg-id="SportsTV.tr" group-title="Channels",SPORTS HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/67.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 4K
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/63.ts
+#EXTINF:0 tvg-id="SkySportArena.it" group-title="Channels",SPORT 2 HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/68.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 3 HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/69.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS 4 HD
+http://visionmedaitv.nl:7444/live/TimesHiftFlussonic/hPgOmwOORa/70.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  /  -1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  /  -2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  /  -3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  /  -4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  /  -5
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  /  -6
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  /  -7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  /  -8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  /  -9
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400
+#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT 4K  / -10
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 4K HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports News HD
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:0 tvg-id="viasat-sport" group-title="Channels",VIASAT SPORT
+http://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Turkmen Sport
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Sports (Opt-1)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",DD Sports (Opt-2)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TDM Sports Macau (Opt-1)
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Horizon Sports
+https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",World of Free Sports
+https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:0 tvg-id="esp-int" group-title="Channels",EUROSPORT 1
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bahrain Sport 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%25Sports%25202_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8&checkedby
+#EXTINF:0 tvg-id="esp-int" group-title="Channels",Eurosport 1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
+#EXTINF:0 tvg-id="esp2-int" group-title="Channels",Eurosport 2
+https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nile Sport
+http://178.132.3.162:88/Nile_Sport/video.m3u8?token=test&checkedby
